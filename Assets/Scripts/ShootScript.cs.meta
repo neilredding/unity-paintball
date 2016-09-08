@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24fdfb128c65df4408c953208dea5fc0
+timeCreated: 1473265270
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - paintballPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
